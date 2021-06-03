@@ -131,7 +131,15 @@ img {
   text-align: center;
 }
 /*==================== LAYOUT ====================*/
+.container {
+  max-width: 768px;
+  margin: 0 var(--mb-1-5) 0 var(--mb-1-5);
+}
 
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
 /*==================== NAV ====================*/
 
 /* show menu */
