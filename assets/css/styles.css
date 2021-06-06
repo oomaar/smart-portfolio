@@ -695,6 +695,10 @@ img {
 }
 
 /* Active Modal */
+.active-model {
+  opacity: 1;
+  visibility: visible;
+}
 
 /*==================== PORTFOLIO ====================*/
 
